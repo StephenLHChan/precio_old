@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+dist
+
+# Ignore compiled TypeScript files
+*.js
+*.js.map
+
+# Ignore sensitive configuration files
+.env
